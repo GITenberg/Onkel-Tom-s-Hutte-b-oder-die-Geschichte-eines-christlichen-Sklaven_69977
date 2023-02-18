@@ -1,0 +1,37 @@
+_repo: Onkel-Tom-s-Hutte-b-oder-die-Geschichte-eines-christlichen-Sklaven_69977
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Bois, L. Du
+    gutenberg_agent_id: '55525'
+    url: http://www.gutenberg.org/2009/agents/55525
+creator:
+  author:
+    agent_name: Stowe, Harriet Beecher
+    aliases:
+    - Stowe, Harriet Elizabeth Beecher
+    - Crowfield, Christopher
+    - Stowe, H. B. (Harriet Beecher)
+    birthdate: 1811
+    deathdate: 1896
+    gutenberg_agent_id: '115'
+    url: http://www.gutenberg.org/2009/agents/115
+    wikipedia: https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+description: ''
+gutenberg_issued: '2023-02-07'
+identifiers:
+  gutenberg: '69977'
+language: de
+pgterms:marc905: 20070826005331beechersto
+pgterms:marc906: '1885'
+pgterms:marc907: US
+production_note: Norbert H. Langkau, Matthias Grammel, Juliet Sutherland and the Online
+  Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aUnited States :$bS. Zickel, $c1885.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Onkel Tom''s Hütte : $b oder die Geschichte eines christlichen Sklaven'
+url: http://www.gutenberg.org/ebooks/69977
